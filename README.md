@@ -2,7 +2,7 @@
 DIVeR: Neural Radiance Fields with 
 Deterministic Integration for Volume Rendering
 
-Abstract
+Abstract :
 Many methods have been presented for the problem of developing a generative
 model capable of constructing a scene from multi-view 2D images with an adequate
 number of image samples and then generating an image from the created 3D models.

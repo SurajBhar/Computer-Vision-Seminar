@@ -20,3 +20,7 @@ for offline rendering improves the PSNR score by 4.25%, the SSIM score by
 1.3%, and the LPIPS measure by 60.49%. In terms of storage space and GPU
 resources, the DIVeR32 model for real-time rendering surpasses KiloNeRF,
 SNeRG, and PlenOctrees.
+
+# Link to the official Project:
+DIVeR(https://lwwu2.github.io/diver/)
+Github Code:(https://github.com/lwwu2/diver-rt?tab=readme-ov-file)
